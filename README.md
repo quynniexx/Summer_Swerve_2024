@@ -1,6 +1,6 @@
 # Summer Swerve 2024 ! :nerd_face:
 
-Hai, it's Quynh ~(˘▾˘~) Welcome to our **Summer Swerve Team Project** !
+Hai, it's Quynh ^_^ Welcome to our **Summer Swerve Team Project** !
 
 Our team's pretty cool fr, we're making a swerve bot + manual or whatever. Here's our stuffz :sunglasses:
 
